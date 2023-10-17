@@ -1,0 +1,4 @@
+"/Users/trimesh/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-1/223.8617.54/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/trimesh/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-1/223.8617.54/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S "/Users/trimesh/Library/Mobile Documents/com~apple~CloudDocs/files/mipt/5_sem/1c/matrix-chatting" -B "/Users/trimesh/Library/Mobile Documents/com~apple~CloudDocs/files/mipt/5_sem/1c/matrix-chatting/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/trimesh/Library/Mobile Documents/com~apple~CloudDocs/files/mipt/5_sem/1c/matrix-chatting/cmake-build-debug

@@ -1,0 +1,4 @@
+/Users/trimesh/Library/Mobile Documents/com~apple~CloudDocs/files/mipt/5_sem/1c/matrix-chatting/cmake-build-debug/CMakeFiles/server.dir
+/Users/trimesh/Library/Mobile Documents/com~apple~CloudDocs/files/mipt/5_sem/1c/matrix-chatting/cmake-build-debug/CMakeFiles/client.dir
+/Users/trimesh/Library/Mobile Documents/com~apple~CloudDocs/files/mipt/5_sem/1c/matrix-chatting/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/trimesh/Library/Mobile Documents/com~apple~CloudDocs/files/mipt/5_sem/1c/matrix-chatting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
